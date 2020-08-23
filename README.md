@@ -5,3 +5,4 @@ DEAP dataset can be found on the official website.
 Team Members:
 Riddhi jain
 Siddhi jain
+Rahul Sahni
