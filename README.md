@@ -7,7 +7,10 @@ Emotion recognition can be achieved by obtaining signals from the brain by EEG. 
 **Duration**: Jul 2020 - Aug 2020 (6 weeks)  
 **Team Members**:  
 - Riddhi Jain  
-- Siddhi Jain  
+- [Siddhi Jain](https://github.com/siddhi5386)  
 - Rahul Sahni  
 - Sanika Deshmukh  
 - [Siba Smarak Panigrahi](https://sibasmarak.github.io/), third-year undergraduate student at the [Department of Computer Science and Engineering](http://cse.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in/)
+
+
+The link to the paper--https://link.springer.com/chapter/10.1007/978-981-16-0401-0_38
